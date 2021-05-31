@@ -7,7 +7,6 @@ data = {
     'grape': 7,
     'orange': 3
 }
-
 print(data)
 
 sortedItems = sorted(data.items())
